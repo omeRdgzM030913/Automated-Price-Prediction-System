@@ -1,4 +1,4 @@
-# Project-CalculoPrecios
+# Automated Price Prediction System
 Overview
 
 This project demonstrates how to simulate and value a European option (Call or Put) using a combination of stochastic processes and quantitative finance models, including:
